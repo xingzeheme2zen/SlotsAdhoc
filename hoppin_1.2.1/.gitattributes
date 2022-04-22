@@ -1,1 +1,2 @@
 HoppinCashCasino.ipa filter=lfs diff=lfs merge=lfs -text
+DistributionSummary.plist filter=lfs diff=lfs merge=lfs -text
